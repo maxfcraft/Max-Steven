@@ -1,0 +1,8 @@
+{
+  "name": "Custom Coach AI 1.5 Final ",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
